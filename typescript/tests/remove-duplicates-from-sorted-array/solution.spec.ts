@@ -1,4 +1,4 @@
-import { removeDuplicates } from '~/remove-duplicates-from-sorted-array'
+import { removeDuplicates } from '~/remove-duplicates-from-sorted-array/solution'
 
 test('example 1', () => {
     let nums = [1, 1, 2];
